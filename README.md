@@ -60,3 +60,12 @@ Image_depixelation
 |   and any other components that define the model's structure.
 |   The learned parameters of the model (weights and biases) are saved in the file.
 |   These parameters are what the model has learned during training to make accurate predictions.
+
+## Example images
+Here an example of the visualization of the predictions, original images, and pixelated area.
+![Sample Image 1](images/1.png)
+![Sample Image 2](images/2.png)
+![Sample Image 3](images/3.png)
+![Sample Image 4](images/4.png)
+![Sample Image 5](images/5.png)
+![Sample Image 6](images/6.png)
