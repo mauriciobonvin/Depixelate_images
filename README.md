@@ -27,13 +27,10 @@ Visualize the results using matplotlib.
 
 ## Dependencies
 
--Python 3.10
-
--PyTorch
-
--NumPy
-
--Matplotlib
+* Python 3.10
+* PyTorch
+* NumPy
+* Matplotlib
 
 ## Structure
 ```
