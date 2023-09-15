@@ -14,7 +14,7 @@ Visualization of the predictions, original images, and pixelated area is also pr
 ## Usage
 
 1. Data Preparation: 
-Prepare your training and validation datasets. The datasets should include pairs of input images, target images, and corresponding known arrays.
+Prepare the training and validation datasets. The datasets should include pairs of input images, target images, and corresponding known arrays.
 
 2. Training: 
 Utilize the training loop to train the SecondCNN model. 
