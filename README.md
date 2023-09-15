@@ -17,7 +17,7 @@ Visualization of the predictions, original images, and pixelated area is also pr
 Prepare the training and validation datasets. The datasets should include pairs of input images, target images, and corresponding known arrays.
 
 2. Training: 
-Utilize the training loop to train the SecondCNN model. 
+Utilize the training loop to train the CNN model. 
 The training process involves specifying the number of epochs, providing the datasets, and saving the model's weights.
 
 3. Inference and Evaluation: 
